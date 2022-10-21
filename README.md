@@ -1,2 +1,2 @@
-# Weblog-admin
-Admin system for Weblog 
+# weblog-admin
+Admin system for weblog 
