@@ -1,2 +1,2 @@
 # easyblog admin
-Admin system for weblog 
+Admin system for easyblog 
