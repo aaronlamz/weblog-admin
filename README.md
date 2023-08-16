@@ -1,2 +1,4 @@
-# easyblog admin
-Admin system for easyblog 
+# weave-admin
+
+Admin system for weavepress
+ 
